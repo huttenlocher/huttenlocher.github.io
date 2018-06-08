@@ -1,0 +1,17 @@
+body
+{
+   margin: 0;
+}
+
+.noboder
+{
+   border: none;
+}
+
+.centered
+{
+   position: fixed;
+   top: 50%;
+   left: 50%;
+   transform: translate(-50%, -50%);
+}
